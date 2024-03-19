@@ -1202,6 +1202,7 @@ section.copyright{
     justify-content: space-between;
     align-items: center;
     grid-column-gap: 5%;
+    margin-bottom: 0;
 }
 .copyright h3{
     grid-row: 2/3;
